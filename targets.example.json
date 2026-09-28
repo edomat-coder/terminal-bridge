@@ -1,0 +1,4 @@
+[
+  {"id": "all", "name": "Default-Session", "mode": "local", "session": "main"},
+  {"id": "second", "name": "Zweite Session", "mode": "local", "session": "work"}
+]
